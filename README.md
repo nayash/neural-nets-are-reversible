@@ -20,6 +20,7 @@ Generated images from a inverted network of convolutional NN (inverse-of-network
 for this experiment had MaxPool layer but inverted model didn't. Check samples from next experiment below!
 
 Generated images from a reversed model which attempts to reverse a 4 layered (2 Conv2d + 2 Dense) network with no maxpool:
+
 <img src="https://github.com/nayash/neural-nets-are-reversible/blob/master/assets/newProgressive_noPoolInTgt_4layer_nonProgsv_1638011097.0101573.png" width=700 height=400/>
 
 <img src="https://github.com/nayash/neural-nets-are-reversible/blob/master/assets/newProgressive_noPoolInTgt_4layer_nonProgsv_1638020844.1275597.png" width=700 height=400/>
